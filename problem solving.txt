@@ -1,0 +1,11 @@
+print("hello world
+
+ = "Programmer"
+greeting="hello," + name
+
+user_input = input("Enter something: ")
+("you entered:", )
+
+age = (input("Enter your age: "))
+name = (input("Enter your name: "))
+
